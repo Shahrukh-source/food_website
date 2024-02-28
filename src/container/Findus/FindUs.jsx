@@ -11,7 +11,8 @@ const FindUs = () => (
         Find Us
       </h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">Shan Food Mahal,Kant Road Shahjahanpur</p>
+        <p className="p__opensans">Shan Food Mahal,Kant Road Shahjahanpur </p>
+        <p className="p__opensans"> Mobile No:+91 7007335310</p>
         <p
           className="p__cormorant"
           style={{ color: "#DCCA87", margin: "2rem 0" }}
